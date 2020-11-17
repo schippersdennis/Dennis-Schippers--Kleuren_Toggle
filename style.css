@@ -31,7 +31,6 @@ font-weight: 300;
     
 }
 .kleuren__list{
-  
     position: absolute;
     list-style: none;
     transform: translateX(-300px);
@@ -111,6 +110,5 @@ font-weight: 300;
     display: flex;
     justify-content: center;
     align-items: center ;
-     
 }
 
