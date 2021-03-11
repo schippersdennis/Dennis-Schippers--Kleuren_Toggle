@@ -3,7 +3,7 @@ My first steps in Javascript. We have been instructed by the trainer to make a c
 
 ## Javascript Basics - Colors-Toggle
 
-![acss](https://user-images.githubusercontent.com/72910410/110714377-8dc5df00-8203-11eb-9f9d-8bdf03b710ff.jpg)
+![collerstoggle](https://user-images.githubusercontent.com/72910410/110762058-af998300-8250-11eb-9bf1-8dd492ec8906.jpg)
 
 #### **Assignment : Advance CSS**
 
