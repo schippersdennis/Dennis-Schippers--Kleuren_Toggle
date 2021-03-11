@@ -1,13 +1,13 @@
 # Colors-Toggle
-My first steps in Javascript. We have been instructed by the trainer to make a color toggle. (Javascript Basics)
+My first steps in Javascript. We have been instructed by the trainer to make a colors toggle. (Javascript Basics)
 
 ## Javascript Basics - Colors-Toggle
 
 ![collerstoggle](https://user-images.githubusercontent.com/72910410/110762058-af998300-8250-11eb-9bf1-8dd492ec8906.jpg)
 
-#### **Assignment : Advance CSS**
+#### **Assignment : Colors-Toggle**
 
-#### **Result:** Take a look at this project : https://advance-css-ba2f6f.netlify.app/
+#### **Result:** Take a look at this project :https://colortoggle-dac3f5.netlify.app/
 
 ## Description
 
